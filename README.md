@@ -1,6 +1,4 @@
-Here’s a simple `README.md` template for your project. You can customize it further if needed:
 
-```markdown
 # Virus-Overwrite
 
 **Virus-Overwrite** is a project designed to demonstrate the concept of a self-replicating virus (often called a "computer virus"). This program overwrites the contents of other executable files with its own code, simulating a virus-like behavior for educational purposes. 
